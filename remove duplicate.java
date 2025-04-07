@@ -21,6 +21,7 @@ public class Solution {
                             a[k]=a[k+1];
                         }
                         n--;
+                        j--;
                     }
                 }
             }
